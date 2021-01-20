@@ -1,5 +1,6 @@
 # Social Media Data Mining for Assessing Consumption Trends for Artisanal Cheese in Brazil
-Additional tables and results related to the work - Social Media Data Mining for Assessing Consumption Trends for Artisanal Cheese in Brazil
+Additional tables and results related to the work <br>
+Author: Thallys da Silva Nogueira
 
 ### List of keywords used for collection on Twitter.
 
