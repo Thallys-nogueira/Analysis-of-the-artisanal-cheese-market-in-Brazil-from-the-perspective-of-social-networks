@@ -1,5 +1,6 @@
 # Social Media Data Mining for Assessing Consumption Trends for Artisanal Cheese in Brazil
-Additional tables and results related to the work - Social Media Data Mining for Assessing Consumption Trends for Artisanal Cheese in Brazil
+Additional tables and results related to the work <br>
+Author: Thallys da Silva Nogueira
 ### Table 1 - Characteristics and consumption habits of artisanal cheeses analyzed in tweets using terms in the Brazilian Portuguese language.
 #### Characteristics of artisanal cheese 
 
