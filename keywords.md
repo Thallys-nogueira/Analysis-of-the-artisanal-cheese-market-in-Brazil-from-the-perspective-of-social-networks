@@ -1,8 +1,7 @@
-# Social Media Data Mining for Assessing Consumption Trends for Artisanal Cheese in Brazil
-Additional tables and results related to the work <br>
+# Analysis of the artisanal cheese market in Brazil from the perspective of social networks
 Author: Thallys da Silva Nogueira
 
-### List of keywords used for collection on Twitter.
+### List of keywords in Brazilian Portuguese language used for collection on Twitter.
 
 |id| keyword| Cheese Category|
 |--|--------|----------|
